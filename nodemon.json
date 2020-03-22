@@ -1,6 +1,7 @@
 {
     "env": {
-        "MONGO_USER": "",
-        "MONGO_PASSWORD" : ""
+        "MONGO_USER": "walrus",
+        "MONGO_PASSWORD" : "68E2N7DNOSOX6dWY",
+        "MONGO_DB" : "pinetree-hotel"
     }
 }
